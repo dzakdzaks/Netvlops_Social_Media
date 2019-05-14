@@ -36,7 +36,7 @@ public class FormatterUtil {
 
     public static String firebaseDBDate = "yyyy-MM-dd'T'HH:mm:ss.SSSZ";
     public static String firebaseDBDay = "yyyy-MM-dd";
-    public static final long NOW_TIME_RANGE = DateUtils.MINUTE_IN_MILLIS * 5; // 5 minutes
+    public static final long NOW_TIME_RANGE = DateUtils.MINUTE_IN_MILLIS * 1; // 1 minutes
 
     public static String dateTime = "yyyy-MM-dd HH:mm:ss";
 
